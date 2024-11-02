@@ -1,0 +1,4 @@
+id,name,office_id,phone_no,scores,age
+,mary,123,"['64336027', '90492239']","{'math': 90, 'english': 100}",20.0
+001,tim,456,,"{'math': 100, 'english': 20, 'chinese': 10}",
+002,alex,789,['1234567'],,50.0
